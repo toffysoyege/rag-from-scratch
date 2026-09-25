@@ -1,0 +1,15 @@
+# Core
+python-dotenv
+openai
+chromadb
+
+# LangChain (Step 10 only)
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+
+# Web UI (Step 11, optional)
+streamlit
+
+# Testing
+pytest
