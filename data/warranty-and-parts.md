@@ -1,8 +1,8 @@
-# CellFasion Parts, Warranty and Returns
+# CellFix Parts, Warranty and Returns
 
 ## Replacement Parts
 
-CellFasion provides replacement parts for supported phones, tablets, and
+CellFix provides replacement parts for supported phones, tablets, and
 laptops. Parts may be sourced as original manufacturer parts (OEM) or as
 high-quality third-party replacement parts, depending on the device and part
 being replaced. The part type should be recorded in the repair database so
@@ -20,12 +20,12 @@ the repair record should identify the part as an OEM component.
 
 High-quality third-party parts are replacement components manufactured by a
 supplier other than the original device manufacturer. These parts should
-meet CellFasion's quality requirements before being used in a customer
+meet CellFix's quality requirements before being used in a customer
 repair.
 
 ## Supported Device Categories
 
-CellFasion's repair database should maintain compatibility information for
+CellFix's repair database should maintain compatibility information for
 common device categories, including smartphones, tablets, and laptops.
 
 ### Smartphones
@@ -101,14 +101,14 @@ charging connector is damaged or no longer functions correctly.
 
 ### 60-Day Repair Warranty
 
-For this sample database, CellFasion provides a 60-day warranty on eligible
+For this sample database, CellFix provides a 60-day warranty on eligible
 repair work. The warranty period begins on the date the repaired device is
 returned to the customer.
 
 If a problem related to the original repair occurs within the 60-day
 warranty period, the customer may return the device for inspection. If the
 issue is determined to be related to the original repair or installed part,
-CellFasion may repair or replace the affected component at no additional
+CellFix may repair or replace the affected component at no additional
 charge.
 
 The warranty does not cover new accidental damage, liquid damage, misuse,
@@ -117,7 +117,7 @@ or problems unrelated to the original repair.
 ## Returns and Repair Issues
 
 Customers who experience an issue with a repaired phone should contact
-CellFasion and provide their repair or transaction information. The repair
+CellFix and provide their repair or transaction information. The repair
 record can be used to determine the original technician, device, installed
 part, repair date, and applicable warranty period.
 
@@ -152,6 +152,6 @@ P007 is a USB-C Charging Port for smartphones, compatible with selected
 USB-C models. It is a third-party part with a 60-day warranty.
 
 The repair database should link each installed part to the customer's repair
-record. This allows CellFasion to determine which part was installed, which
+record. This allows CellFix to determine which part was installed, which
 technician performed the repair, when the repair was completed, and whether
 the repair is still within its warranty period.

@@ -1,4 +1,4 @@
-# CellFasion Product Line
+# CellFix Product Line
 
 ## Mobile Accessories
 
@@ -32,35 +32,35 @@ Compatibility and pricing vary by device model. Starting at $59.99.
 ### Smartphone Battery Replacement
 
 A replacement battery service for supported smartphone models. The service
-includes installation by a CellFasion technician. Price: $89.99 for the
+includes installation by a CellFix technician. Price: $89.99 for the
 sample service.
 
 ## Device Categories
 
 ### Smartphones
 
-CellFasion supports a variety of smartphone models and provides accessories,
+CellFix supports a variety of smartphone models and provides accessories,
 repairs, replacement parts, and device-related services. Supported models
 may include Apple iPhone and other major smartphone brands.
 
 ### Tablets
 
-CellFasion provides accessories and repair services for supported tablet
+CellFix provides accessories and repair services for supported tablet
 devices, including compatible Apple iPad models.
 
 ### Laptops
 
-CellFasion provides device-related services and accessories for supported
+CellFix provides device-related services and accessories for supported
 laptops, including MacBook devices.
 
 ### Desktop PCs
 
-CellFasion provides services for supported desktop computers, including
+CellFix provides services for supported desktop computers, including
 diagnostics, troubleshooting, and selected hardware-related services.
 
 ## Product Availability
 
-Products are stored in the CellFasion product catalog with information such
+Products are stored in the CellFix product catalog with information such
 as product ID, product name, category, compatible device, price, and
 inventory quantity. The online system can use this information to determine
 which products are currently available for purchase or which products are

@@ -1,4 +1,4 @@
-# CellFasion Technician Scheduling & Availability
+# CellFix Technician Scheduling & Availability
 
 ## Technician Work Schedule
 
