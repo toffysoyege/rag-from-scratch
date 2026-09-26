@@ -130,15 +130,26 @@ A repair remains eligible for the sample 60-day warranty when:
 
 ## Sample Part Records
 
-| Part ID | Part Name                 | Device Category | Compatible Device     | Part Type   | Warranty |
-| ------- | ------------------------- | --------------- | --------------------- | ----------- | -------- |
-| P001    | iPhone 17 Pro Max Battery | Smartphone      | iPhone 17 Pro Max     | OEM         | 60 Days  |
-| P002    | iPhone 16 Pro Display     | Smartphone      | iPhone 16 Pro         | Third-Party | 60 Days  |
-| P003    | iPhone 15 Battery         | Smartphone      | iPhone 15             | OEM         | 60 Days  |
-| P004    | Galaxy S25 Ultra Display  | Smartphone      | Galaxy S25 Ultra      | Third-Party | 60 Days  |
-| P005    | MacBook Air Battery       | Laptop          | MacBook Air           | Third-Party | 60 Days  |
-| P006    | iPad Pro Display          | Tablet          | iPad Pro              | Third-Party | 60 Days  |
-| P007    | USB-C Charging Port       | Smartphone      | Selected USB-C Models | Third-Party | 60 Days  |
+P001 is an iPhone 17 Pro Max Battery for smartphones, compatible with the
+iPhone 17 Pro Max. It is an OEM part with a 60-day warranty.
+
+P002 is an iPhone 16 Pro Display for smartphones, compatible with the
+iPhone 16 Pro. It is a third-party part with a 60-day warranty.
+
+P003 is an iPhone 15 Battery for smartphones, compatible with the iPhone 15.
+It is an OEM part with a 60-day warranty.
+
+P004 is a Galaxy S25 Ultra Display for smartphones, compatible with the
+Samsung Galaxy S25 Ultra. It is a third-party part with a 60-day warranty.
+
+P005 is a MacBook Air Battery for laptops, compatible with the MacBook Air.
+It is a third-party part with a 60-day warranty.
+
+P006 is an iPad Pro Display for tablets, compatible with the iPad Pro. It is
+a third-party part with a 60-day warranty.
+
+P007 is a USB-C Charging Port for smartphones, compatible with selected
+USB-C models. It is a third-party part with a 60-day warranty.
 
 The repair database should link each installed part to the customer's repair
 record. This allows CellFasion to determine which part was installed, which

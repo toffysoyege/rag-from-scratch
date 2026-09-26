@@ -27,7 +27,7 @@ displays from scratches and everyday damage. Price: $12.99.
 ### Replacement Phone Display
 
 A replacement display component used for supported smartphone screen repair.
-Compatibility and pricing vary by device model. Price: $59.99.
+Compatibility and pricing vary by device model. Starting at $59.99.
 
 ### Smartphone Battery Replacement
 

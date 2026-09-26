@@ -45,12 +45,21 @@ will show other available technicians instead.
 
 ## Sample Technician Schedule
 
-| Technician ID | Technician Name | Role              | Monday     | Tuesday    | Wednesday  | Thursday   | Friday     | Saturday   | Sunday     |
-| ------------- | --------------- | ----------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| T001          | Alex Johnson    | Senior Technician | 9 AM–5 PM  | 9 AM–5 PM  | Off        | 9 AM–5 PM  | 11 AM–7 PM | 10 AM–4 PM | Off        |
-| T002          | Maria Rodriguez | Technician        | 10 AM–6 PM | Off        | 10 AM–6 PM | 10 AM–6 PM | 10 AM–6 PM | 9 AM–3 PM  | Off        |
-| T003          | Daniel Williams | Senior Technician | Off        | 11 AM–7 PM | 11 AM–7 PM | Off        | 11 AM–7 PM | 10 AM–6 PM | 10 AM–4 PM |
-| T004          | Sarah Chen      | Technician        | 9 AM–5 PM  | 9 AM–5 PM  | 9 AM–5 PM  | 9 AM–5 PM  | Off        | Off        | 10 AM–4 PM |
+Alex Johnson (T001, Senior Technician) works Monday 9 AM–5 PM, Tuesday
+9 AM–5 PM, Thursday 9 AM–5 PM, Friday 11 AM–7 PM, and Saturday 10 AM–4 PM.
+Alex is off on Wednesday and Sunday.
+
+Maria Rodriguez (T002, Technician) works Monday 10 AM–6 PM, Wednesday
+10 AM–6 PM, Thursday 10 AM–6 PM, Friday 10 AM–6 PM, and Saturday 9 AM–3 PM.
+Maria is off on Tuesday and Sunday.
+
+Daniel Williams (T003, Senior Technician) works Tuesday 11 AM–7 PM,
+Wednesday 11 AM–7 PM, Friday 11 AM–7 PM, Saturday 10 AM–6 PM, and Sunday
+10 AM–4 PM. Daniel is off on Monday and Thursday.
+
+Sarah Chen (T004, Technician) works Monday 9 AM–5 PM, Tuesday 9 AM–5 PM,
+Wednesday 9 AM–5 PM, Thursday 9 AM–5 PM, and Sunday 10 AM–4 PM. Sarah is
+off on Friday and Saturday.
 
 The online booking system uses each technician's schedule to determine which
 technicians are available for a customer's requested appointment date and
