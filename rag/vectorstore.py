@@ -9,7 +9,7 @@ def get_collection(reset=False):
     if reset:
         try:
             db.delete_collection(COLLECTION_NAME)
-        except Exception:
+        except ValueError:
             pass  # collection didn't exist yet
     # Chroma defaults to L2 distance. We ask for cosine instead, because
     # nomic-embed-text vectors are not normalized, so L2 and cosine can
