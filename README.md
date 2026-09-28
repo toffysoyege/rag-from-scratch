@@ -1,4 +1,4 @@
-# RAG from Scratch 🚲
+# RAG from Scratch 💻
 
 A Retrieval Augmented Generation (RAG) system built step by step in plain
 Python — embeddings, chunking, vector search, and prompting — then
