@@ -27,11 +27,11 @@ using only its internal documents, and cites its sources.
 
 
 ## What I learned
-I learned how RAG actually works, before I believed it was just giving temporay files to any native chatbot and it would regurgitate infomation about said documents back to you. 
+I learned how RAG actually works. Before this I believed it just meant giving temporary files to a chatbot, which would then repeat the information in those documents back to you.
 
-RAG system works a differently has the model before had no idea what said company was. It fixes that by handling the model the right documents at given time through chunking and Embedding. Embedding just match the meaning of each input through the vector mapping. While chunking reduces the already documents into chunks so that the model can process information with each token. Retrieval is half the battle. The model can only answer the questions through chunks it's given, which is why Streamlit app shows retrived chunks. 
+It works differently. The model has no idea what the company is, so RAG fixes that by handing it the right documents at the right time, through chunking and embedding. Embedding matches the meaning of each input through vector mapping. Chunking breaks the documents into smaller pieces so the model can process the information within its token limit. Retrieval is half the battle: the model can only answer from the chunks it's given, which is why the Streamlit app shows the retrieved chunks.
 
-What surpise me was that local ollama models behave differently from openai's models. The vectors are only 768 numbers instead of 153 and cosine vs L2 distance matters alot. 
+What surprised me was that local Ollama models behave differently from OpenAI's. Their vectors have only 768 numbers instead of 1536, and the choice between cosine and L2 distance matters a lot.
 
 ## Acknowledgements
 Inspired by Abhishek Veeramalla's
